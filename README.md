@@ -1,4 +1,3 @@
-<!--
 In English
 
 👋 Hello, I'm @Adamomarinho
@@ -12,4 +11,4 @@ Em Português
 👀 Possuo interesse em estudar a Biblia e tecnologia, como PHP, Framworks Laravel e Symfony, e novidades de desenvolvimento
 🌱 Atualmente estudo PHP com MVC e DAO, e Frameworks Laravel, Symfony e Vue.js
 💞️ Futuramente desejo colaborar com mais codigos
--->
+
