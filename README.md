@@ -1,42 +1,56 @@
+<div align="center">
+  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
+</div>
+
+# Adamomarinho
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/adamo-raposo-marinho-08290546/)
+[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.teusiteonline.com.br)
+
 In English
 
 👋 Hello, I'm @Adamomarinho
-👀 I am interested in studying the Bible and technology, such as PHP, Framworks Laravel and Symfony, and development news
+👀 I'm studying the Bible and technologies, such as PHP, Framworks Laravel and Symfony, and development news
 🌱 I currently study PHP with MVC and DAO, and Laravel, Symfony and Vue.js Frameworks
-💞️ In the future I want to collaborate with more codes
+💡 I am currently working with a focus on developing innovative and impactful solutions
+💞️ In the future I want to collaborate with more codes.
 
 Em Português
 
 👋 Olá, eu sou @Adamomarinho
-👀 Possuo interesse em estudar a Biblia e tecnologia, como PHP, Framworks Laravel e Symfony, e novidades de desenvolvimento
+👀 Estou estudando a Biblia e tecnologias, como PHP, Framworks Laravel e Symfony, e novidades de desenvolvimento
 🌱 Atualmente estudo PHP com MVC e DAO, e Frameworks Laravel, Symfony e Vue.js
-💞️ Futuramente desejo colaborar com mais codigos
+💡 Atualmente estou trabalhando com o foco em desenvolver soluções inovadoras e impactantes
+💞️ Futuramente desejo colaborar com mais codigos. 
 
-### 🧰 Linguagens e Frameworks - Languages and Frameworks ###
+## 🚀 Habilidades Técnicas - Technical abilities ##
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Jquery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-<img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<br/>
-<br/>
-<br/>
-<br/>
+- Linguagens de Programação: 
 
-[![Adamomarinho GitHub stats](https://github-readme-stats.vercel.app/api?username=Adamomarinho&show_icons=true)](https://github.com/Adamomarinho/github-readme-stats)
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamomarinho)](https://github.com/Adamomarinho/github-readme-stats)
+    [![My Skills](https://skillicons.dev/icons?i=php,javascript,python)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
+
+    [![My Skills](https://skillicons.dev/icons?i=jquery,bootstrap,vue,tailwind,laravel,symfony,django)](https://skillicons.dev)
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=linux,git,github,ps,vscode,postman,docker)](https://skillicons.dev)
+- Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+## 🏆 Projetos Destacados ##
+
+- [Projeto OS](https://github.com/Adamomarinho/OS): Uma descrição breve do projeto e suas principais características.
+- [Projeto Sanções](https://github.com/Adamomarinho/Sancoes): Uma descrição breve do projeto e suas principais características.
+- [Projeto Ponto](https://github.com/Adamomarinho/Ponto): Uma descrição breve do projeto e suas principais características.
+
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software nas tecnologias em que estou trabalhando atualmente.
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Adamomarinho&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamomarinho" />
 
 <br/>
 <br/>
-
-
