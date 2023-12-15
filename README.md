@@ -27,10 +27,10 @@ Em Português
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=php,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=php,javascript)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=jquery,bootstrap,vue,tailwind,wordpress,laravel,symfony,django)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=jquery,bootstrap,vue,tailwind,wordpress,laravel,symfony)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,firebase)](https://skillicons.dev)
