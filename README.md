@@ -30,16 +30,16 @@ Em Português
     [![My Skills](https://skillicons.dev/icons?i=php,javascript)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=jquery,bootstrap,vue,tailwind,wordpress,laravel,symfony)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=jquery,bootstrap,wordpress)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,mongo,firebase)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=linux,git,github,ps,vscode,postman,docker)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,svg,sass)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,sass)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados ##
 
